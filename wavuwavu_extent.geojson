@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Test_Ripyrian_wavuwavu_extent",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 177.671325291750094, -17.532337731319821 ], [ 177.671325291750094, -17.517458885708063 ], [ 177.697992309594724, -17.517458885708063 ], [ 177.697992309594724, -17.532337731319821 ], [ 177.671325291750094, -17.532337731319821 ] ] ] ] } }
-]
-}
